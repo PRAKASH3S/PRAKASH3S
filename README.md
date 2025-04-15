@@ -28,7 +28,7 @@ I'm passionate about solving real-world problems using data, automation, and sto
 ---
 
 ## 📬 Let's Connect
-- 🌐 Portfolio: [prakashteki.github.io](https://prakashteki.github.io)  
+- 🌐 Portfolio: [prakashteki.github.io]([https://prakash3s.github.io/prakashteki.github.io/)  
 - 💼 LinkedIn: [linkedin.com/in/tekip](https://linkedin.com/in/tekip)  
 - ✉️ Email: tekiprakash1@gmail.com
 
