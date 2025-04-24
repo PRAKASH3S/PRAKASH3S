@@ -13,7 +13,7 @@ I'm passionate about solving real-world problems using data, automation, and sto
 ---
 
 ## 🔧 Technical Skills
-- **Languages**: Python, R, SQL, PL/SQL  
+- **Languages**: Python, R, SQL, DAX, Power Query  
 - **Data Viz**: Tableau, Power BI, Excel  
 - **Databases**: MySQL, Oracle, Hive, HDFS  
 - **Tools**: Jupyter, Git, ServiceNow, VS Code
