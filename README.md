@@ -79,13 +79,7 @@ Engineered machine learning models (Random Forest, Decision Tree) to predict acc
 
 ---
 
-## 📈 GitHub Stats
 
-![Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRAKASH3S&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAKASH3S&layout=compact&theme=tokyonight)
-
----
 
 ## 📬 Let's Connect
 
