@@ -57,25 +57,18 @@ Engineered machine learning models (Random Forest, Decision Tree) to predict acc
 ## 💼 Professional Experience
 
 **🔹 Wisdom Index Advisors** – *Data Analytics Engineer Intern* (Aug 2025 – Dec 2025)  
-- Built a PostgreSQL cloud database with 37+ financial metrics, reducing advisor lookup time by 70%
-- Developed 39 SQL queries to track financial KPIs, reducing analysis time by 50%
-- Created a full-stack analytics dashboard with Next.js/React and Python Flask, integrating OpenAI GPT-4 for AI-powered summaries
+
 
 **🔹 University of North Texas** – *Data Analyst* (Feb 2024 – Aug 2025)  
-- Designed Power BI dashboards analyzing 1M+ hospital records, uncovering kidney transplant operation patterns
-- Engineered geospatial analysis using Python to map optimal airport-to-hospital routes for organ transportation
 
 **🔹 Accenture** – *Data Analyst* (Nov 2021 – Dec 2023)  
-- Optimized SQL query performance by 40% through indexing and schema restructuring for Oracle databases
-- Built financial reporting dashboards reducing manual reporting time by 33%
-- Developed ETL transformation scripts ensuring clean data for BI dashboards
 
 ---
 
 ## 🏆 Certifications
 
 🎖️ **Microsoft Certified: Power BI Data Analyst Associate**  
-📅 **Microsoft Fabric Analytics Engineer** (Exam scheduled: Jan 13, 2025)
+📅 **Microsoft Fabric Analytics Engineer** 
 
 ---
 
@@ -94,4 +87,4 @@ Engineered machine learning models (Random Forest, Decision Tree) to predict acc
 
 ---
 
-⭐️ **Currently open to Data Analyst and Data Analytics Engineer opportunities!**
+⭐️ **Currently open to Data Analyst and Data Engineer opportunities!**
