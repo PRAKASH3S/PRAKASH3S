@@ -61,7 +61,9 @@ Engineered machine learning models (Random Forest, Decision Tree) to predict acc
 
 **🔹 University of North Texas** – *Data Analyst* (Feb 2024 – Aug 2025)  
 
-**🔹 Accenture** – *Data Analyst* (Nov 2021 – Dec 2023)  
+**🔹 Accenture** – *Data Analyst* (Nov 2021 – Dec 2023) 
+
+**🔹 Sanjiva Homoeopathy ** – *Financial Data Analyst* (Aug 2020 – Sep 2021) 
 
 ---
 
