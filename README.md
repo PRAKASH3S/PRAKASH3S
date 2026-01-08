@@ -63,7 +63,7 @@ Engineered machine learning models (Random Forest, Decision Tree) to predict acc
 
 **🔹 Accenture** – *Data Analyst* (Nov 2021 – Dec 2023) 
 
-**🔹 Sanjiva Homoeopathy ** – *Financial Data Analyst* (Aug 2020 – Sep 2021) 
+**🔹 Sanjiva Homoeopathy** – *Financial Data Analyst* (Aug 2020 – Sep 2021) 
 
 ---
 
