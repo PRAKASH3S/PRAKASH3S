@@ -56,7 +56,7 @@ Engineered machine learning models (Random Forest, Decision Tree) to predict acc
 
 ## 💼 Professional Experience
 
-**🔹 Wisdom Index Advisors** – *Data Analytics Engineer Intern* (Aug 2025 – Dec 2025)  
+**🔹 Wisdom Index Advisors** – *Financial Data Analyst Intern* (Aug 2025 – Dec 2025)  
 
 
 **🔹 University of North Texas** – *Data Analyst* (Feb 2024 – Aug 2025)  
