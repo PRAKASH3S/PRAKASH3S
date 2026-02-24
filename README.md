@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prakash Teki
 
 🎓 **Master's in Business Analytics** @ University of North Texas (2024-2025)  
-💼 **5+ Years of Experience** in Data Analysis & Analytics Engineering  
+💼 **4+ Years of Experience** in Data Analysis & Analytics Engineering  
 📊 Former Data Analyst @ Accenture | SQL Optimizer | Dashboard Builder  
 🙏 Vice President @ Berakah Campus Ministries | Communications Director @ Cybersecurity Club
 
@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-I'm a data professional with **5+ years of experience** turning complex data into actionable insights that drive real business impact. From optimizing databases and building ETL pipelines to creating interactive dashboards, I help organizations make data-driven decisions. Whether it's reducing financial analysis time by 80%, optimizing SQL queries by 40%, or analyzing 1M+ healthcare records, I thrive at the intersection of analytics, engineering, and storytelling.
+I'm a data professional with **4+ years of experience** turning complex data into actionable insights that drive real business impact. From optimizing databases and building ETL pipelines to creating interactive dashboards, I help organizations make data-driven decisions. Whether it's reducing financial analysis time by 80%, optimizing SQL queries by 40%, or analyzing 1M+ healthcare records, I thrive at the intersection of analytics, engineering, and storytelling.
 
 Currently seeking **Data Analyst** and **Data Analytics Engineer** roles where I can leverage my technical expertise to solve meaningful problems.
 
